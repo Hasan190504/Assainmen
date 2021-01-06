@@ -1,0 +1,10 @@
+section{
+    float: left;
+}
+.all{
+    width: 25%;
+    height: 100%;
+    float: left;
+    padding: 5;
+    border: 10px solid red;
+}

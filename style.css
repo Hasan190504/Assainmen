@@ -1,0 +1,26 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+}
+.big-header{
+    font-size: 50px;
+}
+div{
+    float: left;
+}
+.l{
+    text-decoration: none ;
+    background-color:rgba(241, 139, 22, 0.746) ;
+    border-radius: 5px;
+    padding: 10px 20px;
+    color: white;
+}
+.l but{
+    border:none
+}
+
+#last{
+
+}
+span{
+    color: tomato;
+}
